@@ -22,4 +22,5 @@ with open(sifre_dosya,"r",encoding="utf-8") as pwd:
                 break
             except:
                 print("şifre hatalı :"+password)
+
                 continue
